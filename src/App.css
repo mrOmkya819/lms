@@ -1,0 +1,13 @@
+
+body {
+    background-color:rgb(208, 208, 242) /* Set the background color for the body */
+  }
+  .all{
+    margin-left: 2cm;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 1cm;
+    margin-top: 1cm;
+    margin-right: 2cm;
+    height: 20cm;
+  }

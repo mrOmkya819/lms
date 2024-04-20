@@ -1,0 +1,108 @@
+
+.rf{
+    background-color: rgb(208, 208, 242);
+    border-radius: 25px;
+    margin-top: 0.5cm;
+    height: 87vh;
+  
+}
+.mt15{
+   height: 30px;
+   padding: 30px;
+}
+.r15{
+display: flex;
+justify-content: space-around;
+}
+.gt{
+    margin-top: 40px;
+    padding-left: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mg{
+    margin-top: 1.30cm;
+  margin-left: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+  
+}
+.cur{
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+.purple{
+    background-color:rgb(196 123 255);
+    height: 130px;
+    width: 80%;
+    border-radius: 20px;
+ 
+}
+.blue{  
+    background-color: rgb( 31,117,254);
+    height: 130px;
+    width: 80%;
+    border-radius: 20px;
+    opacity: .6;
+
+}
+.yellow{
+    background-color: rgb(254, 225, 62);
+    height: 130px;
+    width: 80%;
+    border-radius: 20px;
+ 
+}
+.red{
+    background-color: rgb(255, 192, 203);
+    height: 118px;
+    width: 80%;
+    border-radius: 20px;
+    opacity: .6;
+}
+
+
+
+.thanks{
+    margin-top: 20px;
+    margin-left: 0px;
+    border-radius: 20px;
+}
+.text1{
+margin-left: 3cm;
+text-align: center;
+padding-top: 15px;
+}
+.first{
+    margin-left: 0cm;
+    
+     text-align: center;
+     color: aliceblue;
+     margin-top: -2cm;
+}
+.fontsmall{
+    font-size: 0.7rem;
+   
+}
+.first1{
+    height: 50px;
+    width: 50px;
+    
+    background-color:aliceblue;
+    border-radius: 20px;
+    color:black;
+    text-align: center;
+    padding-top: 15px;
+}
+.first2{
+    font-size: 0.7rem;
+    margin-left: 4cm;
+    margin-top: 5cm; 
+}
+.progresingbar{
+    height: 15px;
+    width: 150px;
+}

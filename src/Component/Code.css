@@ -1,0 +1,39 @@
+.text-secondary{
+    font-size: 0.7rem;
+
+}
+.cur{
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    width: 14.28%; /* Set width for each column (100% divided by 7 columns) */
+  }
+  th:first-child, td:first-child {
+    border-left: none;
+  }
+  th, td {
+    border-top: none;
+    border-bottom: none;
+    text-align: center;
+    white-space: nowrap; /* Prevent wrapping long text */
+  }
+  th {
+    background-color: #f0f0f0; /* Optional: Add background color to header */
+  }
+  .top-row {
+    font-weight: bold;
+    text-align: center;
+  }
+  .top-row td {
+    border: none;
+  }
+  .top-row span {
+    margin: 0 30px; /* Adjust the margin as needed for equal spacing */
+  }
